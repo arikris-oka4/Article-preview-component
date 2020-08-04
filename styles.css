@@ -1,0 +1,60 @@
+.img1 {
+  display:inline;
+  position: absolute;
+  top: 150px;
+  left: 250px;
+}
+.carbinet {
+  width: 400px;
+  height:338px;
+
+}
+.para1 {
+  width: 300px;
+  height:40px;
+  text-decoration: solid;
+  line-height:1.5;
+  margin-top: 0px;
+  padding-bottom: 30px;
+  font-family: 'Manrope', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500, 700;
+}
+.para2 {
+  width: 300px;
+  height:80px;
+  margin-top:0px;
+  padding-bottom:17px;
+}
+.para {
+  position:absolute;
+  right:296px;
+  margin-top:143px;
+  background-color:hsl(210, 46%, 95%);
+  padding-top:60px;
+  padding-bottom:72px;
+  padding-left:20px;
+  padding-right: 100px;
+}
+.img2 {
+  width:40px;
+  height:50px;
+  border-radius: 30px;
+  padding-right: 5px;
+}
+.bottomp {
+  display: inline;
+  float:right;
+}
+.bottom {
+  position: absolute;
+  top:400px;
+  right:500px;
+}
+.shortcut {
+  width:30px;
+  height:30px;
+  position:absolute;
+  right:420px;
+  top: 420px;
+  border-radius: 50%;
+}
